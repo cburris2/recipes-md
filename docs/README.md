@@ -1,3 +1,3 @@
 # recipes
 
-[Chicken Tacos](/chicken-tacos)
+[Chicken Tacos](/recipes-md/chicken-tacos)
