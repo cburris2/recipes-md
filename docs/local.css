@@ -16,4 +16,5 @@ h1 a {
 
 .markdown-body>*:first-child , .markdown-body h1 a{
     background-color: #fff;
+    color:#1580eb
 }
