@@ -3,7 +3,7 @@ layout: page
 title: Chicken Tacos
 permalink: /chicken-tacos/
 ---
-<link rel="stylesheet" href="./local.css">
+<link rel="stylesheet" href="/recipes-md/local.css">
 
 
 # Chicken Tacos
