@@ -7,3 +7,13 @@ h1, h5 {
     color: #fff;
     padding: 2px;
 }
+
+h1 a {
+    background-color: #1580eb;
+    color: #fff;
+    padding: 2px;
+}
+
+.markdown-body>*:first-child {
+    background-color: #fff;
+}
