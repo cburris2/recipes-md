@@ -1,3 +1,11 @@
+---
+layout: page
+title: Chicken Tacos
+permalink: /chicken-tacos/
+---
+
+
+
 # Chicken Tacos
 
 ### Prep Time
