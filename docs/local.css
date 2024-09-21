@@ -1,3 +1,9 @@
 .markdown-body blockquote, blockquote { 
     border-left: 0.25em solid #015bb4;
 }
+
+h1, h5 {
+    background-color: #1580eb;
+    color: #fff;
+    padding: 2px;
+}
